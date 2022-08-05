@@ -9,8 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class WelcomeController {
 	@GetMapping("/message")
 	public String getMessage() {
-		int a=10;
-		int b=100;
+		
 		string abc="Ram";
 
 		return "Welcome...";
