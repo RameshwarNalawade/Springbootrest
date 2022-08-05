@@ -11,7 +11,7 @@ public class WelcomeController {
 	public String getMessage() {
 		int a=10;
 		int b=100;
-		string abc="Ram"
+		string abc="Ram";
 
 		return "Welcome...";
 	}
