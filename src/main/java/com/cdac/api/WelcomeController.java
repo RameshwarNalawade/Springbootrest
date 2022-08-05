@@ -10,6 +10,7 @@ public class WelcomeController {
 	@GetMapping("/message")
 	public String getMessage() {
 		int a=10;
+		int b=100;
 		return "Welcome...";
 	}
 
